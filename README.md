@@ -33,7 +33,7 @@
     </div>
 
     <div class="msg" id="msg"></div>
-    <div class="hint small">Catatan: sistem ini hanya memeriksa password di sisi klien (JavaScript). Jangan gunakan untuk data sensitif.</div>
+    <div class="hint small">PDD KBE 2025.</div>
   </main>
 
   <script>
