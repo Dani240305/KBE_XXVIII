@@ -21,7 +21,7 @@
 </head>
 <body>
   <main class="card">
-    <h1>Masukkan Password</h1>
+    <h1>DOKUMENTASI KBE XXVIII</h1>
     <p class="subtitle">Isi password untuk melanjutkan ke dokumentasi.</p>
 
     <label for="pw">Password</label>
