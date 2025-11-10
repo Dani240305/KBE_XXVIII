@@ -1,4 +1,3 @@
-<!doctype html>
 <html lang="id">
 <head>
   <meta charset="utf-8" />
@@ -23,7 +22,7 @@
 <body>
   <main class="card">
     <h1>Masukkan Password</h1>
-    <p class="subtitle">Isi password untuk melanjutkan ke halaman tujuan.</p>
+    <p class="subtitle">Isi password untuk melanjutkan ke dokumentasi.</p>
 
     <label for="pw">Password</label>
     <input id="pw" type="password" placeholder="Masukkan password" autocomplete="off" />
@@ -43,8 +42,8 @@
       // Ganti nilai `correctPassword` dengan password yang Anda inginkan.
       // Ganti `redirectUrl` dengan link tujuan yang akan dikunjungi setelah password benar.
       // Contoh: const redirectUrl = 'https://contoh.com';
-      const correctPassword = 'rahasia123';
-      const redirectUrl = 'https://example.com';
+      const correctPassword = 'terimakasih pdd';
+      const redirectUrl = 'https://drive.google.com/drive/folders/15ZewBXH1WN2HnIcnKcj1AmA1tEEmJR-7?usp=sharing';
       // ====================
 
       const pwInput = document.getElementById('pw');
